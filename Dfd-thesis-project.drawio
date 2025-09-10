@@ -205,64 +205,64 @@
           <mxGeometry x="80" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-38" value="API After login Server" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="760" width="432" height="1160" as="geometry">
+          <mxGeometry x="1200" y="650" width="570" height="440" as="geometry">
             <mxRectangle x="400" y="200" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-39" value="Get Thesis" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-40" value="Get thesis by keyword / Catagory" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-45" value="Delete theis" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-41" value="Comment Post" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-42" value="Comment delete" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="680" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-43" value="Get comment" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-46" value="Update theis" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-47" value="Create Thesis" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-48" value="Comment edit" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-69" value="Create notification" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="760" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-70" value="Send notification" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="840" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-71" value="Download thesis" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="920" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-72" value="Send log" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="1000" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-73" value="Get statistic" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-38" vertex="1">
-          <mxGeometry x="40" y="1080" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="360" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IIilCcqDhFFno7Ei3CsS-52" value="Student API" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IIilCcqDhFFno7Ei3CsS-52" value="Thesis API" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="480" width="190" height="280" as="geometry">
             <mxRectangle x="400" y="200" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IIilCcqDhFFno7Ei3CsS-64" value="Create student thesis" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-52" vertex="1">
+        <mxCell id="IIilCcqDhFFno7Ei3CsS-64" value="Create thesis" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-52" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IIilCcqDhFFno7Ei3CsS-66" value="Get student thesis" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-52" vertex="1">
+        <mxCell id="IIilCcqDhFFno7Ei3CsS-67" value="Update thesis" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-52" vertex="1">
           <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IIilCcqDhFFno7Ei3CsS-67" value="Update student thesis" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-52" vertex="1">
+        <mxCell id="IIilCcqDhFFno7Ei3CsS-66" value="Get thesis" style="rounded=1;whiteSpace=wrap;html=1;" parent="IIilCcqDhFFno7Ei3CsS-52" vertex="1">
           <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IIilCcqDhFFno7Ei3CsS-54" value="Teacher API" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -316,22 +316,6 @@
         <mxCell id="IIilCcqDhFFno7Ei3CsS-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IIilCcqDhFFno7Ei3CsS-83" target="IIilCcqDhFFno7Ei3CsS-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IIilCcqDhFFno7Ei3CsS-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IIilCcqDhFFno7Ei3CsS-68" target="IIilCcqDhFFno7Ei3CsS-46" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1150" y="1270" />
-              <mxPoint x="1150" y="1060" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IIilCcqDhFFno7Ei3CsS-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IIilCcqDhFFno7Ei3CsS-65" target="IIilCcqDhFFno7Ei3CsS-40" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1120" y="1190" />
-              <mxPoint x="1120" y="980" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yefg0WoXISoBtYHqCvty-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IIilCcqDhFFno7Ei3CsS-8" target="IIilCcqDhFFno7Ei3CsS-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -380,7 +364,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eRz7YMECNyyjDCqZuOSM-47" value="API Database" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="80" width="200" height="280" as="geometry">
+          <mxGeometry x="1200" y="80" width="200" height="520" as="geometry">
             <mxRectangle x="400" y="200" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -484,6 +468,12 @@
           <mxGeometry x="0.1101" relative="1" as="geometry">
             <mxPoint x="9" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eRz7YMECNyyjDCqZuOSM-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IIilCcqDhFFno7Ei3CsS-20" target="IIilCcqDhFFno7Ei3CsS-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eRz7YMECNyyjDCqZuOSM-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IIilCcqDhFFno7Ei3CsS-81" target="IIilCcqDhFFno7Ei3CsS-66">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
