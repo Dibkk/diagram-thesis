@@ -2336,12 +2336,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FbTgI6fXTSuWLnuiDA0w" name="Page-3">
-    <mxGraphModel dx="3083" dy="1430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eXAd-tv-UX6TH2peM6dQ-1" value="Student Structor" style="swimlane;whiteSpace=wrap;html=1;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="1720" height="1640" as="geometry" />
+          <mxGeometry x="80" y="80" width="1720" height="1640" as="geometry" />
         </mxCell>
         <mxCell id="eXAd-tv-UX6TH2peM6dQ-2" value="User function" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="eXAd-tv-UX6TH2peM6dQ-1">
           <mxGeometry x="240" y="200" width="200" height="1400" as="geometry">
