@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.2">
   <diagram name="Page-1" id="LffN5dX8d188mkvxFPO_">
-    <mxGraphModel dx="1169" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2485" dy="1410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PZ8VicKWCwDxJSZ61OQ6-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="OverAll" vertex="1">
-          <mxGeometry height="2280" width="1600" x="40" y="40" as="geometry" />
+          <mxGeometry height="3440" width="1600" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="PZ8VicKWCwDxJSZ61OQ6-5" edge="1" parent="PZ8VicKWCwDxJSZ61OQ6-1" source="PZ8VicKWCwDxJSZ61OQ6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="PZ8VicKWCwDxJSZ61OQ6-10" value="">
           <mxGeometry relative="1" as="geometry">
@@ -309,13 +309,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tzr35wGTIX9xHjly0hRg-46" parent="PZ8VicKWCwDxJSZ61OQ6-1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Dashboard&lt;/span&gt;" vertex="1">
-          <mxGeometry height="640" width="1280" x="280" y="1600" as="geometry" />
+          <mxGeometry height="1800" width="1520" x="40" y="1600" as="geometry" />
         </mxCell>
         <mxCell id="Tzr35wGTIX9xHjly0hRg-68" parent="Tzr35wGTIX9xHjly0hRg-46" style="swimlane;whiteSpace=wrap;html=1;" value="Admin" vertex="1">
           <mxGeometry height="320" width="480" x="40" y="80" as="geometry" />
         </mxCell>
         <mxCell id="Tzr35wGTIX9xHjly0hRg-69" parent="Tzr35wGTIX9xHjly0hRg-46" style="swimlane;whiteSpace=wrap;html=1;" value="Student" vertex="1">
-          <mxGeometry height="320" width="480" x="560" y="80" as="geometry" />
+          <mxGeometry height="520" width="1440" x="40" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
